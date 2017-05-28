@@ -1,4 +1,4 @@
-CloudComputing Assignment-2
+Project-2
 
 This project contains
 	i. RestApi.war - Executable which is hosted on server
